@@ -11,6 +11,9 @@ public class CBranchMerge01 {
     private static void doMaster03(){
         System.out.println("change third method in branch b01");
     }
+    private static void doMaster04(){
+        System.out.println("fourth method in branch master");
+    }
     public static void main(String[] args) {
         doMaster01();
     }
