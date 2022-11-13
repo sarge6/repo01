@@ -9,7 +9,7 @@ public class CBranchMerge01 {
         System.out.println("second method in branch master");
     }
     private static void doMaster03(){
-        System.out.println("third method in branch master");
+        System.out.println("change third method in branch b01");
     }
     public static void main(String[] args) {
         doMaster01();
